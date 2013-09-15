@@ -1,0 +1,23 @@
+{
+  "name": "injector-test",
+  "version": "0.1.0",
+  "description": "A small test of connect-injector",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-connect": "~0.5.0",
+    "connect-injector": "~0.2.2",
+    "grunt-mocha": "~0.4.1",
+    "bower": "~1.2.6",
+    "grunt-bower-requirejs": "~0.7.1",
+    "grunt-contrib-jshint": "~0.6.4"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": "https://github.com/localnerve/injector-test",
+  "author": "Alex Grant",
+  "license": "BSD"
+}
