@@ -1,6 +1,8 @@
 # injector-test
 > A test project to demonstrate a problem I'm having with connect-injector
 
+>> UPDATE: [connect-injector 0.2.3](https://github.com/daffl/connect-injector) fixed this problem.
+
 ## Summary
 I'm experiencing an issue using connect-injector with an ajax application. This project demonstrates the problem in a minimal way, and reproduces the exact behavior that I'm seeing in a larger app.
 
