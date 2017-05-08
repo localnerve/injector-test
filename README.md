@@ -1,4 +1,6 @@
 # injector-test
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/localnerve/injector-test.svg)](https://greenkeeper.io/)
 > A test project to demonstrate a problem I'm having with connect-injector
 
 >> UPDATE: [connect-injector 0.2.3](https://github.com/daffl/connect-injector) fixed this problem.
